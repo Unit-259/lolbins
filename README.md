@@ -31,14 +31,18 @@ Each function is designed with consistent output and built-in parameter validati
 
 ## Installation
 
-1. **Clone or Download** the module files to your local machine.
-2. **Import the Module** in your PowerShell session:
+Install the module directly from the PowerShell Gallery and import it into your session:
+
+```powershell
+Install-Module -Name lolbins -Scope CurrentUser
+Import-Module lolbins
+```
     
-    Import-Module <Path-to-Module>\LOLBinModule.psm1
-    
-3. (Optional) To ensure you’re working with the latest data, run:
-    
-    Update-LOLBinData
+(Optional) To ensure you’re working with the latest data, run:
+
+```powershell    
+Update-LOLBinData
+```
 
 ## Usage
 
