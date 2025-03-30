@@ -16,8 +16,6 @@ A PowerShell module designed to interact with the [LOLBAS API](https://lolbas-pr
   - [Find-LOLBinByTag](#find-lolbinbytag)
   - [Get-LOLBinCategory](#get-lolbincategory)
   - [Get-LOLBinDetection](#get-lolbindetection)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
